@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\bin\Debug\AJBTranscript.exe.config
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\bin\Debug\AJBTranscript.exe
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\bin\Debug\AJBTranscript.pdb
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.Form1.resources
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.Properties.Resources.resources
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.exe
+C:\Users\andre\source\repos\AJBTranscript\AJBTranscript\obj\Debug\AJBTranscript.pdb
